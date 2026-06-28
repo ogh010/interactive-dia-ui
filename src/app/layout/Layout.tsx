@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom";
 import Button from "@mui/material/Button";
-import MyButton from "../../components/MyButton";
+import MyButton from "../../temp/components/MyButton";
 
 const Layout = () => {
   return (
